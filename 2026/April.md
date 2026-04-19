@@ -19,7 +19,7 @@ go off *离开，突然发出巨响*
 
 on one's own *独立地*
 
-soud *资金充足的* adj
+financially soud *资金充足的* adj
 
 be busy doing sth *忙于做某事* 
 
