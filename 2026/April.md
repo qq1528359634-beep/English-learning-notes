@@ -1,27 +1,43 @@
-## 04.15
-regarding  *有关* adj 
+## 04.19
+notify *通知* v
 
-handpick *特选* vt 
+notice *通知* n
 
-head    *管理*  v
+gradually *逐渐地* adv
 
-morale  *士气*  n
+highly *及其地，高水平地* adv
 
-commuter *通勤者*  n
+barely *勉强才能* adv
 
-construction *建设*  n
+necessarily *必定* adv
 
-board of directors *董事会* n
+endorsement *赞同，背书*  n
 
-course *方向，方针，课程* n
+retail *零售* n adj adv
 
-leisure time *空闲时间*  n
+go off *离开，突然发出巨响* 
 
-warehouse *仓库* n
+on one's own *独立地*
 
-be out sick *请病假* 
+soud *资金充足的* adj
 
-stock *备货* v
+be busy doing sth *忙于做某事* 
+
+conference room *会议室* n
+
+attend *参加* v
+
+attend to *处理* v
+
+payday *薪资日* n
+
+take notes *做笔记* v
+
+stationery store *文具店* n
+
+filing cabinet *文件柜* n
+
+back up *备份* v
 
 ## 04.18
 
@@ -74,3 +90,30 @@ openings *开口，职位空缺* n
 conduct *带领，进行* v
 
 express *表达* v
+
+
+## 04.15
+regarding  *有关* adj 
+
+handpick *特选* vt 
+
+head    *管理*  v
+
+morale  *士气*  n
+
+commuter *通勤者*  n
+
+construction *建设*  n
+
+board of directors *董事会* n
+
+course *方向，方针，课程* n
+
+leisure time *空闲时间*  n
+
+warehouse *仓库* n
+
+be out sick *请病假* 
+
+stock *备货* v
+
