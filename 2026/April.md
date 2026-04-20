@@ -1,3 +1,63 @@
+## 04.20
+
+decrease *降低* v
+
+mortgage rates *按揭利率* n
+
+allowance *津贴* n
+
+margin  *幅度* n
+
+surplus *过剩*  n adj
+
+reveal *透露* v
+
+insiders *知情人士* n
+
+across the board *全面地*
+
+jump on the wagon *随波逐流* 
+
+predict *预言*
+
+amass *积累* v
+
+get on the path to *通往...地道路* 
+
+portfolio *作品集*
+
+investment protfolio *投资业务* 
+
+shake up *重大调整* 
+
+middle-income earners *中等收入者* n
+
+express one's opinion on *就...发表* 
+
+property *所有物，属性*
+
+straightforward *明确的，直接的* adj
+
+unbiased *没有偏见的* adj
+
+get ahead on *从...中受益*
+
+fortune *命运，财富* n
+
+promote *促进* v
+
+intention *目的* n
+
+mimic *模仿* v
+
+in an effort to do *努力做某事*
+
+proposal *建议，创立*
+
+coordinate *使协调* v
+
+traffic congestion *交通拥堵*
+
 ## 04.19
 notify *通知* v
 
