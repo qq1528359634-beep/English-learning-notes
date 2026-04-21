@@ -1,3 +1,23 @@
+## 04.21
+
+on behalf of  sth/sb *代表* 
+
+hospitality *殷勤款待，好客* n
+
+setup *设备* n
+
+extend one's gratitude *表达某人的感激之情*
+
+in the foreseeable future *在不久的将来*
+
+in the near future 
+
+synergy *协同作用*
+
+logistics *后勤物流* n
+
+prevalent *盛行的* adj
+
 ## 04.20
 
 decrease *降低* v
