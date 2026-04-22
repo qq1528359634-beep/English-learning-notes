@@ -1,3 +1,21 @@
+## 04.22
+
+informal *非正式的* adj
+
+atmosphere *气氛*  n
+
+superb *极好的*  adj
+
+functions *功能，社交聚会* n
+
+convince *说服* v
+
+spouse *配偶* n
+
+significant *显著的* adj
+
+memorable *值得纪念的* adj
+
 ## 04.21
 
 on behalf of  sth/sb *代表* 
