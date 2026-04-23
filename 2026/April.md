@@ -1,3 +1,29 @@
+## 04.23
+
+drop by *顺道拜访* 
+
+contract *合同*
+
+contractor *立约人* n
+
+make it on time *赶上，按时*
+
+imply *暗示* v
+
+prompt *迅速地* adv
+
+guideline *指南* n
+
+appropriate *适当的* adj
+
+handcraft *手工艺品* n
+
+jet-lagged *有时差反应的* adj
+
+rapport *融洽*  n
+
+address *称呼* v
+
 ## 04.22
 
 informal *非正式的* adj
