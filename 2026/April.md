@@ -1,3 +1,25 @@
+
+## 04.24
+
+after all *毕竟* 
+
+think over *思考*
+
+be reluctant to do sth *不愿意做某事* 
+
+be qualified for *胜任*
+
+renovation *修缮* v
+
+intersection *十字路口* n
+
+pay lot *收费停车场*
+
+be towed away *被拖走*
+
+garage *车库* n
+
+
 ## 04.23
 
 drop by *顺道拜访* 
