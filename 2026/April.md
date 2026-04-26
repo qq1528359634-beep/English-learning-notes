@@ -1,4 +1,75 @@
+## 04.26
 
+carry *备有（货物）*
+
+look through *浏览* v
+
+run an errand *办事，跑腿*
+
+normal working hours *正常工作时间* n
+
+baseball *棒球* n
+
+tournament *联赛* n
+
+morale *精神面貌* n
+
+fares *票价* n
+
+on the top of *在此之上* 
+
+legitimate *合理的* adj
+
+shot up *猛涨*  v
+
+discriminate against *区别对待* v
+
+work out *发展* n
+
+definitely *确切地*
+
+promotion *晋升* n
+
+beforehand *事前*
+
+valet parking *代客停车*
+
+how may I be of your assistance *有什么我可以帮你*
+
+relevant to *与什么有关* 
+
+conduct *进行* v
+
+lengthy *漫长的* adj
+
+stellar *一流的* adj
+
+value *重视* v
+
+extension *分机* 
+
+attraction *有趣的东西* n
+
+coordinator *协调人* n
+
+community residents *社区居民*
+
+instill *逐渐灌输* v
+
+vital *非常重要的* adj
+
+possess *拥有* v
+## 04.25
+
+tailor-made *定做的* adj
+
+treadmill *跑步机* n
+
+athele *运动员* n
+
+nudge *鼓励，劝说* v
+
+straighten out *弄清楚*  
 ## 04.24
 
 after all *毕竟* 
