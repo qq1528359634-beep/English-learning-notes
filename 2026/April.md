@@ -1,3 +1,15 @@
+## 04.27
+
+insightful *富有洞察力的* adj
+
+ever *曾经，一直* adv
+
+credit *归功于* 
+
+work ethics *职业道德* 
+
+head a company *领导公司*
+
 ## 04.26
 
 carry *备有（货物）*
