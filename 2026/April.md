@@ -1,3 +1,95 @@
+## 04.29
+
+deteriorate *使恶化* v
+
+adverse *不利的* adj
+
+toxic *有毒的* adj
+
+irresponsible *不负责任的* adj
+
+undergo *经历* 
+
+separate *单独的* adj
+
+detoxification *解毒* n
+
+detoxify *给~解毒* v
+
+ministry *政府部* n
+
+council *委员会* n
+
+mayor *镇长* n
+
+occur *发生* v
+
+exit *通道，出口* n
+
+pose *造成* v
+
+precaution *预防措施* n
+
+evacuate *撤离* v
+
+staircase *楼梯* n
+
+visor *遮阳板，鸭舌帽* n
+
+supervisor *管理者* n
+
+proceed toward *前往~* 
+
+by the chance *万一*
+
+apartment complex *公寓楼* n
+
+furnish *配置家具* v
+
+slash *劈砍* v
+
+drape *窗帘* n
+
+slashing prices *降价促销* n
+
+garage *车库* n
+
+carpooling *合伙乘车*  v
+
+come to one's completion *结束* 
+
+bear with *忍受* v
+
+bulletin *广告* n
+
+depart for *飞往* v
+
+suspend *延迟，暂停* v
+
+refreshment *茶点* n
+
+re-routed *改变航线* 
+
+lounge *等候室* n
+
+accommodate *为~住宿* v
+
+beverage *饮料* n
+
+cool off *变凉* v
+
+strawberry *草莓* n
+
+smoothie *八面玲珑，冰沙* adj
+
+patio *露天* n
+
+our hours *我们的营业时间* n
+
+word *消息* n
+
+supplier *供应商* n
+
 ## 04.27
 
 insightful *富有洞察力的* adj
